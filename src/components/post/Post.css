@@ -1,0 +1,28 @@
+.post {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #ddd;
+  background-color: #413f3f;
+  padding: 1em;
+  margin: 1em auto;
+  border-radius: 8px;
+  max-width: 600px;
+  text-align: center;
+}
+
+.post-title {
+  margin: 0 0 0.5em;
+  font-size: 1.5em;
+}
+
+.post-description {
+  margin: 0 0 1em;
+  font-size: 1em;
+}
+
+.post-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}

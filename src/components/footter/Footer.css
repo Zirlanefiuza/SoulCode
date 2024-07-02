@@ -1,0 +1,36 @@
+   .footer {
+    background-color: #413f3f;
+    padding: 2em;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .footer-description {
+    font-size: 1.2em;
+    margin-bottom: 1em;
+  }
+  
+  .footer-icons {
+    margin: 1em 0;
+  }
+  
+  .footer-icon {
+    margin: 0 0.5em;
+    color: rgba(255, 255, 255, 0.87);
+    font-size: 2em;
+    text-decoration: none;
+  }
+  
+  .footer-icon:hover {
+    color: #d25be2;
+  }
+  
+  .footer-copyright {
+    margin-top: 1em;
+    font-size: 1em;
+  }
+  
